@@ -101,5 +101,4 @@ def menu():
             print("Tipo de dato no valido")
 def main():
     menu()
-
 main()
